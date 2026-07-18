@@ -4,7 +4,7 @@ import cookieParser from "cookie-parser";
 
 import authRoutes from "./routes/authRoutes.js";
 import vehicleRoutes from "./routes/vehicleRoutes.js";
-import driverRoutes from "./routes/driverRoutes.js";
+import driverRoutes from "./routes/DriverRoutes.js";
 import tripRoutes from "./routes/tripRoutes.js";
 import maintenanceRoutes from "./routes/maintenanceRoutes.js";
 import fuelRoutes from "./routes/fuelRoutes.js";
