@@ -1,5 +1,5 @@
 import express from "express";
-import { getDashboard } from "../controllers/dashboardController.js";
+import { getDashboard } from "../controllers/dashBoardController.js";
 
 import authMiddleware from "../middlewares/authMiddleware.js";
 import authorizeRoles from "../middlewares/roleMiddleware.js";

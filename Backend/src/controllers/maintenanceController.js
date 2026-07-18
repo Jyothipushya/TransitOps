@@ -1,5 +1,5 @@
 import Maintenance from "../models/Maintenance.js";
-import Vehicle from "../models/Vehicle.js";
+import Vehicle from "../models/vehicle.js";
 
 // CREATE
 export const createMaintenance = async (req, res) => {

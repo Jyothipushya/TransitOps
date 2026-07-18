@@ -1,6 +1,6 @@
 import Trip from "../models/Trip.js";
 import Driver from "../models/Driver.js";
-import Vehicle from "../models/Vehicle.js";
+import Vehicle from "../models/vehicle.js";
 
 // CREATE TRIP
 export const createTrip = async (req, res) => {

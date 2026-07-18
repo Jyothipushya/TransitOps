@@ -1,4 +1,4 @@
-import Vehicle from "../models/Vehicle.js";
+import Vehicle from "../models/vehicle.js";
 import Driver from "../models/Driver.js";
 import Trip from "../models/Trip.js";
 import Maintenance from "../models/Maintenance.js";
