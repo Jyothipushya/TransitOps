@@ -14,7 +14,7 @@ import NotFound from "../pages/NotFound";
 import ProtectedRoute from "./ProtectedRoute";
 import Expenses from "../pages/Expenses";
 
-import MainLayout from "../assets/components/layout/MainLayout";
+import MainLayout from "../assets/components/Layout/MainLayout";
 
 function AppRoutes() {
   return (
