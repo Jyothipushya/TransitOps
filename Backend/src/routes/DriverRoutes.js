@@ -5,8 +5,7 @@ import {
   getDriverById,
   updateDriver,
   deleteDriver,
-} from "../controllers/driverController.js";
-
+} from "../controllers/DriverController.js";
 import authMiddleware from "../middlewares/authMiddleware.js";
 import authorizeRoles from "../middlewares/roleMiddleware.js";
 
